@@ -8,6 +8,8 @@ public class UseWhileLoop {
 		while(num<20){
 			System.out.println(num);
 			num++;
+
+                       System.out.println("hello");
 		}
 
 	}
